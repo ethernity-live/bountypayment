@@ -1,0 +1,251 @@
+txAdress Mon Feb 26 2018 09:07:42 GMT-0400 (-04) : 0x0b0dd572a9a63f7a20a828af73d3eb8394fb6a91299bf5379213f172cdaf0b80
+Error Mon Feb 26 2018 09:07:49 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:07:57 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:08:06 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:08:14 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:08:21 GMT-0400 (-04) : 0x4ea9547a089ef09c6d012a59405d69d6b3a7603dfbfa11d519c17258f8ef2002
+Error Mon Feb 26 2018 09:08:29 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:08:37 GMT-0400 (-04) : 0xef323925d6a5495db55af8dc990d0391b428e0ba2cfe3d9fda11d3bdabde5f2f
+txAdress Mon Feb 26 2018 09:08:45 GMT-0400 (-04) : 0xb8b18f40af7add42d99c13d0ff9a9ea34b04a737f81fdaeecccd21ddab614176
+Error Mon Feb 26 2018 09:08:53 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:09:01 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:09:09 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:09:25 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:09:33 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:09:41 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:09:49 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:09:57 GMT-0400 (-04) : 0x088cbc4b2073316fcc94b6fad9125392cf69ba034e688a975d9a236e74c07471
+txAdress Mon Feb 26 2018 09:10:06 GMT-0400 (-04) : 0xc3e7f10f8d1af7f39c006aa752e26e2c6fdfb2984f97244422ea2d72a6279645
+Error Mon Feb 26 2018 09:10:21 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:10:29 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:10:38 GMT-0400 (-04) : 0x5c7e538f5577a17b7c42435925f157d760b62872ccd6563ae488a956fbf36415
+txAdress Mon Feb 26 2018 09:10:45 GMT-0400 (-04) : 0xf3c496f9f3f12bfa5d1648a20d7445aa46a91824254e282bc5a2a0395ce3858e
+Error Mon Feb 26 2018 09:11:02 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:11:10 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:11:17 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:11:25 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:11:34 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:11:42 GMT-0400 (-04) : 0x63828fce7dd2afeb634b7e289cde6984f53d686cecfbf143c6accf14fbe8e7c7
+Error Mon Feb 26 2018 09:11:50 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:12:00 GMT-0400 (-04) : 0xb7db584b91a9dacf71ea534110b7aba53965d66e25c29bbdad7f86be20c59981
+txAdress Mon Feb 26 2018 09:12:08 GMT-0400 (-04) : 0xb36e76f3ad8d972d082bc55bb82f669d3d6f20c51321c080520ca7222e5aed73
+Error Mon Feb 26 2018 09:12:15 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:12:31 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:12:40 GMT-0400 (-04) : 0xf416b1673a040841fdc17842fa61a37631d55c41d4f75d2c2ee9b707469fa802
+txAdress Mon Feb 26 2018 09:12:48 GMT-0400 (-04) : 0x7c43f188f34465a602b85f1a426dca097f6e63a983dc40ad280a65ab68b49bd0
+txAdress Mon Feb 26 2018 09:12:56 GMT-0400 (-04) : 0x9f30a9ca7297def1cf7128421057cb26724160e77e161f3a68fa1e4a38811c49
+Error Mon Feb 26 2018 09:13:06 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:13:22 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:13:30 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:13:38 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:13:45 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:13:54 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:14:10 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:14:17 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:14:25 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:14:33 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:14:41 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:14:49 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:15:05 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:15:14 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:15:29 GMT-0400 (-04) : 0x5d008aa39c383479300e4c65a4af0f23eeb4fa0c25a1dd4c8b344cc38da89026
+Error Mon Feb 26 2018 09:15:37 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:15:45 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:15:53 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:16:01 GMT-0400 (-04) : 0xaff199e84403a18807cf44a74b2599fb93e0f368ff029728bb25c8f0e7b0b2f1
+Error Mon Feb 26 2018 09:16:10 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:16:17 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:16:33 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:16:41 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:16:50 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:16:57 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:17:05 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:17:13 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:17:29 GMT-0400 (-04) : Error: Returned error: nonce too low
+txAdress Mon Feb 26 2018 09:17:37 GMT-0400 (-04) : 0x54a8342252dd2ee528d922dbebd50f1a915e2b69296afb9195461a5c76714972
+txAdress Mon Feb 26 2018 09:17:45 GMT-0400 (-04) : 0x9a3f8872a5467239f6607c886dac67c4edb951a100d1b0c9b776496949654428
+Error Mon Feb 26 2018 09:17:53 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:18:02 GMT-0400 (-04) : 0x53ef8674cdfd7e634d1fd1c983421a14bee79827909ece912a26f54650d14482
+txAdress Mon Feb 26 2018 09:18:10 GMT-0400 (-04) : 0x8ed7b16d467c2a7e522641aee7fbba7d67d2c9f680febcbcabaff8a8d1c54357
+Error Mon Feb 26 2018 09:18:17 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:18:26 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:18:34 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:18:50 GMT-0400 (-04) : 0x8d35d41ffb75dbe0d83d6f617534e8b9d93babf4cd2a12cefdc88ec0a9f4f9c2
+txAdress Mon Feb 26 2018 09:18:58 GMT-0400 (-04) : 0x7540b827b82c8cbd1e3ac6fbf4398134d56d4951acbc0d10e75043e2141c3b5d
+Error Mon Feb 26 2018 09:19:06 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:19:14 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:19:31 GMT-0400 (-04) : 0xb4db5240c0998f749d497a19f684b60e1fdca165a3d9b00c60716fe349f4defd
+Error Mon Feb 26 2018 09:19:39 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:19:46 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:19:55 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:20:11 GMT-0400 (-04) : 0x46c05a6e91cd3bddfce39698d0e5e10a34648b57e1b0c07739227b0ea1ea1769
+txAdress Mon Feb 26 2018 09:20:19 GMT-0400 (-04) : 0x3b6372cb374650d659dc261c6b77b41808e55bfb5acc2d39989ddcfca2eb46e0
+txAdress Mon Feb 26 2018 09:20:27 GMT-0400 (-04) : 0xcfce8f3f001cdf5afdb36e1c13265026cc89907859e59931a851ad38b480949f
+txAdress Mon Feb 26 2018 09:20:35 GMT-0400 (-04) : 0x488468e8307c86887b062810be33cfa236420ed00fe1ef393b47fcdb49c93e45
+Error Mon Feb 26 2018 09:20:43 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:20:51 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:20:59 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:21:07 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:35:44 GMT-0400 (-04) : 0x67d50c5e6438767e83bf4c0d3703af1b2f6886e7abcd38e5e6022c49a42a11b4
+txAdress Mon Feb 26 2018 09:36:14 GMT-0400 (-04) : 0xa76f19bf60d633389420e59ade027eb3a1898c495470f8e5c4d55b7f5e2c3fe5
+Error Mon Feb 26 2018 09:36:44 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 09:37:14 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:38:48 GMT-0400 (-04) : 0xb4ab21f9b1b4bfdb8b4a9a9be43e2e560f988c24a6547ca1601495e1cd4fd17e
+Error Mon Feb 26 2018 09:39:47 GMT-0400 (-04) : Error: Returned error: nonce too low
+txAdress Mon Feb 26 2018 09:40:18 GMT-0400 (-04) : 0x3c48eb7f27a3af4e9547075ab59e1ede885c891be0afc6c6b214a95506b56621
+txAdress Mon Feb 26 2018 09:40:48 GMT-0400 (-04) : 0xe56dec9be34706b203e44050545b38d0d7581575f39d22a226d13dec88f3174a
+txAdress Mon Feb 26 2018 09:41:22 GMT-0400 (-04) : 0xfafdc28205aaed8da8984d077a6636b1a6c7dd4a49f63648a770d2b6e72e0c2b
+txAdress Mon Feb 26 2018 09:47:35 GMT-0400 (-04) : 0xcb41ef86e4ee9d4e95ccb581dd984b8aec6b91a9594d8a0b11e13d9d1a66aad4
+Error Mon Feb 26 2018 09:48:03 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:48:33 GMT-0400 (-04) : 0xdc219c0a739f258f4fd28b72c5e74963fed091be25dcd007599c691220cf38cc
+txAdress Mon Feb 26 2018 09:49:33 GMT-0400 (-04) : 0x77c551fb8c41eac130cccc9f8939f3861e6aa201722206064bba6c5219e68081
+Error Mon Feb 26 2018 09:51:06 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 09:53:04 GMT-0400 (-04) : 0xaec0e53d7298377c673d7f81351a8d6bbc3d5c3348f31ae18bc3336648fc7ea1
+txAdress Mon Feb 26 2018 09:53:34 GMT-0400 (-04) : 0xfb1f7c0238af1ef0df0d5df72a57ca26c793af2cd7328d4e28a7ebf0a62d1aa2
+txAdress Mon Feb 26 2018 09:54:04 GMT-0400 (-04) : 0xcfd759f1fbc5a10c5a026a63324b3b249c340797ebce390b0634682c3e200b10
+txAdress Mon Feb 26 2018 09:54:34 GMT-0400 (-04) : 0x25142c21c60cff9b5f0d9525a2292803d8e886f118b990c53c3335cc33bea33d
+txAdress Mon Feb 26 2018 09:55:05 GMT-0400 (-04) : 0x131f3b57f4de3f83e19c709bfa4ed0a8afbcb20ccc95f9376a016b02c75ecc7c
+txAdress Mon Feb 26 2018 09:56:35 GMT-0400 (-04) : 0x46dd6863fc69b150886483d3ce85ce613d5b731ad7b1429d1f24c7a96baacd4c
+txAdress Mon Feb 26 2018 09:57:05 GMT-0400 (-04) : 0x66ca41146bc41f46992df8e0d976434886175d8e759490a26a5fe6e12f2ee41e
+txAdress Mon Feb 26 2018 09:57:35 GMT-0400 (-04) : 0xf53d8014bc153d2857416b651a90ede31078494379495f35db940d6fe36d2fd7
+txAdress Mon Feb 26 2018 09:59:05 GMT-0400 (-04) : 0x57cf61144066679c143ad6f69a09eb4c32bd4e07212a0d37433c99e9ed476d4d
+txAdress Mon Feb 26 2018 09:59:35 GMT-0400 (-04) : 0x5a691826b8ebbfa4b3dbbabeeb02e58b1faabc45fe234a7a0a1a27b9b8c52ede
+txAdress Mon Feb 26 2018 10:00:05 GMT-0400 (-04) : 0x6fd4d6fc19c5160826c9fcdda27cec6417c295f42ed3737416452fbe79e411d3
+txAdress Mon Feb 26 2018 10:00:35 GMT-0400 (-04) : 0xe3178de7da286410d3fe2d0eba89c09ff9b0024b7bb1d4c9ac8c95a51b211337
+txAdress Mon Feb 26 2018 10:01:05 GMT-0400 (-04) : 0x0534adf339840440a78eb25864e41099a15cabea26487b679717616b78f33d6e
+txAdress Mon Feb 26 2018 10:02:05 GMT-0400 (-04) : 0x7024c7b1dbe9074119ce57042bd9c759d4534c4c5a9bfadf48929ed210692b3c
+txAdress Mon Feb 26 2018 10:02:35 GMT-0400 (-04) : 0xb974716df71d2fae42b375950cc0fae8d1bbccff5afea28daa6605ec789ebf2f
+txAdress Mon Feb 26 2018 10:03:35 GMT-0400 (-04) : 0x47af23ace4ef78ccafd5eb2258ad68957a3d56e5d8335818637c1160c3366cf6
+txAdress Mon Feb 26 2018 10:04:35 GMT-0400 (-04) : 0xa9d031ce43bf90f5f255f3d6270e3e2700398a5b0385bdad8f7ac6e382c84ff0
+Error Mon Feb 26 2018 10:05:05 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 10:05:35 GMT-0400 (-04) : 0x59180d10d8fa7752e9af3d55b6738d4e5d4af165875964979e8346a4ee08c9b3
+txAdress Mon Feb 26 2018 10:06:05 GMT-0400 (-04) : 0xe0cbc45f2cb240c7519888f12c9b356362a97b82b09bc626aeae134ee50ada9e
+Error Mon Feb 26 2018 10:06:35 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 10:07:35 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 10:08:05 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 10:08:35 GMT-0400 (-04) : 0xd6d51797474e3f10c43c93576012e0ef24cc2bc20653e6d13c64210f4ab79474
+txAdress Mon Feb 26 2018 10:09:06 GMT-0400 (-04) : 0xe3d5b77e6449ecf21f07eb3b5e2f4275118dcf5cf3c8daa9dd2d98dd2b0a94fd
+txAdress Mon Feb 26 2018 10:09:36 GMT-0400 (-04) : 0x0950f58a38d926ed36ea345e1b67167f679c475ba04093ee412b3acb118fbe4a
+Error Mon Feb 26 2018 10:10:36 GMT-0400 (-04) : Error: Returned error: nonce too low
+txAdress Mon Feb 26 2018 10:11:05 GMT-0400 (-04) : 0xddd0d02645cf61bee1401f6af61e5a5240a8753968ff37a216e676541d739f20
+txAdress Mon Feb 26 2018 10:11:35 GMT-0400 (-04) : 0x8a32d63211d8e1a539f970d8f98d77a649b988df629b333a8f312470e64e315f
+Error Mon Feb 26 2018 10:12:06 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 10:12:36 GMT-0400 (-04) : 0x76c22518dd88cf82500c03e08f905a67ccec6313ab80258b5fb17e6f988b8c51
+txAdress Mon Feb 26 2018 10:13:06 GMT-0400 (-04) : 0x0b6e51091409e2d8f44a8e8d94fb45b50200616cb2bdd1f07a8ba5646e21d253
+txAdress Mon Feb 26 2018 10:14:07 GMT-0400 (-04) : 0x0109aa7c23fa7ccb0b54a62703de83fc74f9a65d4d24f6404d5bcfa6c325ed70
+txAdress Mon Feb 26 2018 10:14:37 GMT-0400 (-04) : 0x75b67d7d34b4d428ec1ae938fec999a42a62e34b7bca95ad2f894559bf874d29
+txAdress Mon Feb 26 2018 10:16:08 GMT-0400 (-04) : 0x98a7df5c3e305b9ee7ce010fe69d62188039c623c442efad616f4461c34a0344
+txAdress Mon Feb 26 2018 10:16:37 GMT-0400 (-04) : 0xc52a5c56f4d5348b16b8345444feddefaff27370c5d73b84b3ec1f258f92271a
+txAdress Mon Feb 26 2018 10:17:07 GMT-0400 (-04) : 0xee3898c4274c61e90c82b45d6c2e6e77024223513ec1b0588c8cdeab03545e0f
+txAdress Mon Feb 26 2018 10:18:07 GMT-0400 (-04) : 0xe33f21914b5f0bb6335759b9342e56dd4a381271da40a273174ea0a8f37e092e
+Error Mon Feb 26 2018 10:18:36 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 10:19:37 GMT-0400 (-04) : 0xa8ab7354221c5f25364b3e1ff51f399ae58179c24308c8cbbd8451710b0dac4f
+txAdress Mon Feb 26 2018 10:20:07 GMT-0400 (-04) : 0x63951e94531f582afd28ce0e27b7e5deb0358c8bb2afecbabbe84af31f688e25
+txAdress Mon Feb 26 2018 10:20:38 GMT-0400 (-04) : 0xd8d4acbbd65688e8a0ee674a007600a1033cdd63846f78329c10d88b02ed479e
+Error Mon Feb 26 2018 10:21:07 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 10:21:37 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 10:22:08 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 10:23:07 GMT-0400 (-04) : 0xbcc7331c256dd182becfa81c0f4e4f1944313eac8c216547628a672438de3460
+txAdress Mon Feb 26 2018 10:23:37 GMT-0400 (-04) : 0xafadaed6db9f17f23f11c7e518356cce10fa46dcede351c6d5694b452e6c55fb
+txAdress Mon Feb 26 2018 10:24:07 GMT-0400 (-04) : 0x7922f5d5dfa6b3ce7dff07e67761ecec7193d2a34e7c4c9f2b59b5a6612f9837
+Error Mon Feb 26 2018 10:24:37 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 10:25:08 GMT-0400 (-04) : 0x5f7f7683cfa51c2787aa2520e2c4fcb346bc2bf91218da67c4c715c7fee6557b
+txAdress Mon Feb 26 2018 10:26:08 GMT-0400 (-04) : 0x88e2e7c6ca245f2ccd90dadd05ea4928c6d62c8b6f8f4981dd654971825fc406
+txAdress Mon Feb 26 2018 10:26:38 GMT-0400 (-04) : 0xf19a9e804f208027656062d4ca5b59b006966959e8d802329aa0db682a6373c6
+txAdress Mon Feb 26 2018 10:27:08 GMT-0400 (-04) : 0x0c4667432aff2bc6022bd7fbce6832bf6e565628923ad153b9c98a111a7add6e
+txAdress Mon Feb 26 2018 10:28:38 GMT-0400 (-04) : 0x2ded508fb78af4e45d22148ce39ed354efbb635b1de6c202041c2e29ee0bbc55
+Error Mon Feb 26 2018 10:29:08 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 10:29:38 GMT-0400 (-04) : 0x87a6b7c12961aa1782628ba844a62165df79668cc8bf1cbeade60769dbcb83b0
+Error Mon Feb 26 2018 10:31:10 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 10:31:39 GMT-0400 (-04) : 0x0dc9c04ac80d71a4902789457beb2359c8f1846296a107eec36c3824a0be1718
+txAdress Mon Feb 26 2018 10:32:10 GMT-0400 (-04) : 0x559ce7e3479eb41f07b88feb8ed0c0e67b1b261c5d594f64b84b60c0e0902a79
+txAdress Mon Feb 26 2018 10:33:09 GMT-0400 (-04) : 0x31a1e7a5bd7a0d878325950a5f18b4aed6462b3b02cddfad2780bdc4615f0b7e
+txAdress Mon Feb 26 2018 10:33:39 GMT-0400 (-04) : 0xe1d1610357f1680edce9a0060f5bf9f823d3e9ff50ab619389152f0be08665de
+txAdress Mon Feb 26 2018 10:34:09 GMT-0400 (-04) : 0x41937e08622940bf88bda795db7d3af60accd821fd9c2cf67621d550ce101018
+txAdress Mon Feb 26 2018 10:35:09 GMT-0400 (-04) : 0x4d21a77f299d7863343209bb062364e74f7bd53f37e588e04766f8974b608589
+txAdress Mon Feb 26 2018 10:35:40 GMT-0400 (-04) : 0x81f883f33818f62b212996b46b5f31ce2d72af8f423feeb412b1402689cf240a
+txAdress Mon Feb 26 2018 10:36:10 GMT-0400 (-04) : 0x14ba6ceae06ddec433cc77ed13c6a6e6df03cc3ffc35ff0cac4323f8040ee5cb
+Error Mon Feb 26 2018 10:36:40 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 11:03:13 GMT-0400 (-04) : 0x7a85de785e1d6736cf2d1e4d04c5211827de8a426cb04895eb3b85e910c4fe95
+txAdress Mon Feb 26 2018 11:06:13 GMT-0400 (-04) : 0x2cf8298977271725b65b2bb9a97d6467bd8f8183eae637cef468ec45495aef32
+txAdress Mon Feb 26 2018 11:08:44 GMT-0400 (-04) : 0x7121d29564e569eb31c472f03d327a1a198b1bba5d8c4f527d5eb67dc0f33269
+Error Mon Feb 26 2018 11:09:45 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 11:10:15 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 11:11:45 GMT-0400 (-04) : 0x14b0bf81aa8df16bfbe97d4ec8e0e006575e802ab8f879f353126284ecbc5033
+txAdress Mon Feb 26 2018 11:14:16 GMT-0400 (-04) : 0xa2c305b284f2c11738c16a05ba86427e8c8b7fe5cd53592e6fbdc8f6c286c986
+txAdress Mon Feb 26 2018 11:15:17 GMT-0400 (-04) : 0xc3fd10faa6510242f6a525a93474698e35a65331efea7fb909f9c57bc8657fd0
+Error Mon Feb 26 2018 11:15:46 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 11:17:47 GMT-0400 (-04) : 0xcec4c243377b465de3cdebd47fab9264c0a5205353ca327f196d679db21bd654
+txAdress Mon Feb 26 2018 11:19:47 GMT-0400 (-04) : 0x38a99771f7b0c26fdee364522ba52653c7b9af7caab858b3f557ea8d2a4e1c6a
+txAdress Mon Feb 26 2018 11:20:17 GMT-0400 (-04) : 0x210fb778e77cf1df5fa573ccfc9a74fa5815b5ef4e1c34b72642fa17008db645
+Error Mon Feb 26 2018 11:20:46 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 11:21:17 GMT-0400 (-04) : 0x64b311ca8b485ec85378b53fa0e0e647b7ae316b9e225f2238755239dfa8e014
+txAdress Mon Feb 26 2018 11:21:46 GMT-0400 (-04) : 0x931dabad8d3ddec334975b795ef0683d6f8c671a6ecb60a377ba455fae76d874
+txAdress Mon Feb 26 2018 11:22:47 GMT-0400 (-04) : 0x1cb57d87bc2aa1a36127ea6fdaf31f10eb1634023e2a11fe5fec0feb44e30d21
+txAdress Mon Feb 26 2018 11:23:22 GMT-0400 (-04) : 0xd7bee35da3d9b2fea6f165fa08aefa4796d32f06609ee46ae3e91aad01e3dce0
+Error Mon Feb 26 2018 11:24:17 GMT-0400 (-04) : Error: Returned error: nonce too low
+txAdress Mon Feb 26 2018 11:25:48 GMT-0400 (-04) : 0x1d8679e4b7c8b7307d5e91852c24e79456de51701fbe3ccac665de9ceb96db65
+txAdress Mon Feb 26 2018 11:26:18 GMT-0400 (-04) : 0x9309f925f888bacef82dce126ec68a6c0a5037ee4cb236f276727bdb1e04acdf
+txAdress Mon Feb 26 2018 11:27:18 GMT-0400 (-04) : 0x33c8bb7ba5500fe175523e91789e1301478eeb5fa9487d8d793e23a9bc63055c
+txAdress Mon Feb 26 2018 11:27:48 GMT-0400 (-04) : 0x5ccc6ffa0ab366c8355b3f131839f795bf0d8c8d9505a895888ecceee2aff392
+txAdress Mon Feb 26 2018 11:29:49 GMT-0400 (-04) : 0xfd6d2de399357d1c5ef3827aa8c96cd3799ec98342607f4f66cdb388377a5832
+txAdress Mon Feb 26 2018 11:31:48 GMT-0400 (-04) : 0xe270393d16b4254d0c5a14de713bb6f409d67ab321940770aec28dfdb8808552
+txAdress Mon Feb 26 2018 11:32:19 GMT-0400 (-04) : 0x1d01af2a8e9e7adaca6be678e32f1805360c6851a15aad6058a6ecc36911911a
+txAdress Mon Feb 26 2018 11:33:49 GMT-0400 (-04) : 0x159802fa83ad3ce142fc6c8e8f2e8e14236f651ba0af3d2a5194d64089ee6c0d
+txAdress Mon Feb 26 2018 11:35:19 GMT-0400 (-04) : 0x06ebb5565f63d3f3ed27debf17475c0e3bc63d5d53c8a0d88777732423f58195
+txAdress Mon Feb 26 2018 11:36:20 GMT-0400 (-04) : 0xd9be010541b49972e279dad9d8fcb7f628f6b4238a9ca56e75cee30419578793
+txAdress Mon Feb 26 2018 11:36:49 GMT-0400 (-04) : 0x325edb125eb0dd34c3a14eabae82541690c68b337543e931101f92648d7ab9a3
+txAdress Mon Feb 26 2018 11:37:20 GMT-0400 (-04) : 0x120204f82cc7a9532e77c7d7a641c6ff65ae4a020610319594a11e74e9911f36
+txAdress Mon Feb 26 2018 11:38:51 GMT-0400 (-04) : 0x926833fdd71975740d8728cf7470b1dca8e9927b214c2c34cca659650b007a70
+Error Mon Feb 26 2018 11:39:25 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 11:39:51 GMT-0400 (-04) : 0x98d8e6d25caef551cc228feb1cbb55f5941373faa7367c5ecdf71f9448048284
+txAdress Mon Feb 26 2018 11:41:21 GMT-0400 (-04) : 0xda9d95035b7c2c4140176ecb80ad05cb316735eb0608bf00431258d243a1ee7f
+txAdress Mon Feb 26 2018 11:42:22 GMT-0400 (-04) : 0x7f425d4994dfd98371764754d5c96bf07cf6b0dcb6096f172ff22635acc6e22e
+txAdress Mon Feb 26 2018 11:44:21 GMT-0400 (-04) : 0xda969ebb00f0523de8d25dfeed55e1c08b28de22254d0d86e26e18768f2e380d
+txAdress Mon Feb 26 2018 11:46:22 GMT-0400 (-04) : 0x7bf3fc76c62f6d5bc2c7f040ef938e157290f73aa311e3c0ab5f13d5c7ea3d7a
+txAdress Mon Feb 26 2018 11:48:22 GMT-0400 (-04) : 0x7f9e78e6d531a86604424f84cd9e5d8cea3ec01966449b21dac1885be6240f17
+txAdress Mon Feb 26 2018 11:50:53 GMT-0400 (-04) : 0xabe96cef56aad837d26b38ed00d95c56b6452d52409b7613f7d1ebb90849ccb3
+txAdress Mon Feb 26 2018 11:51:23 GMT-0400 (-04) : 0x6f9eb15d2217977b2bb335d2a45dd5c84a7b17f21836a7b44641e4e902cebf61
+Error Mon Feb 26 2018 11:51:53 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 12:07:34 GMT-0400 (-04) : 0x12ab1865a5416f25a0bcc343793b84f005e1c1d3c0226a207fc3da51ee3c853b
+Error Mon Feb 26 2018 12:08:02 GMT-0400 (-04) : Error: Returned error: nonce too low
+txAdress Mon Feb 26 2018 12:09:30 GMT-0400 (-04) : 0xf02ca82caa804e00190aa3d253311b66ef9b59d83fe101e37d5588b2936a9dfc
+txAdress Mon Feb 26 2018 12:12:01 GMT-0400 (-04) : 0x9b6e9b4b7162a1a7f5b7fb8a3d801fa20b2f118097aad6b166d2b94c0e590220
+txAdress Mon Feb 26 2018 12:13:32 GMT-0400 (-04) : 0x195013e9ce4379b1a65e9edb02a3705fc5ca7bea1d1bb91f9acdefdfc127b569
+txAdress Mon Feb 26 2018 12:18:33 GMT-0400 (-04) : 0xcc558008c4c8a86f4379d6894baf5dae4fd3831357bd5b158d63e7ece543c8b7
+txAdress Mon Feb 26 2018 12:23:15 GMT-0400 (-04) : 0xf8182fe654344243c1197c78abdcacb5e15bc818ada42c5730976aae26e5864f
+txAdress Mon Feb 26 2018 12:24:19 GMT-0400 (-04) : 0x03b65289662b939426d965cd0c7b4bc28cfd67a348064c8ddf8020866544f314
+txAdress Mon Feb 26 2018 12:26:19 GMT-0400 (-04) : 0x3ceb0655c8097ca0de005ec82e637931fd932c2c6ab0d32b0e3c48ab97a84e18
+txAdress Mon Feb 26 2018 12:26:49 GMT-0400 (-04) : 0x1122410d07275cedd7cd639ed9a3e5bc01a5785b484e56abae1d5c7b08c0008f
+Error Mon Feb 26 2018 12:27:00 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 12:27:56 GMT-0400 (-04) : 0x314e8177edacc461aadf17711c837967f130616e71eface63409d31239d98da3
+txAdress Mon Feb 26 2018 12:28:28 GMT-0400 (-04) : 0x57c5d1c6647bc552189b3a6fb25dfc73ad9618a101399b9568be6fdedb46e2cb
+txAdress Mon Feb 26 2018 12:30:11 GMT-0400 (-04) : 0x89d9f418e3d1416855c1cc27cf6d4522682bbbcb4a0e56cc129d64e9ed77e8eb
+txAdress Mon Feb 26 2018 12:30:56 GMT-0400 (-04) : 0x21656aed3f284bfef98fe388a524f8a38ab7bcdb22398fbad5c7ac7cd64461f5
+txAdress Mon Feb 26 2018 12:31:00 GMT-0400 (-04) : 0x60c02da5f22c93373d7f93bc45690a809a538919e9d57b438e774d826a7e64cb
+txAdress Mon Feb 26 2018 12:31:32 GMT-0400 (-04) : 0x4fd486cccf53482c25ebaf036c69d42fe36bf3586d434b21fbd028ca1fe820cc
+Error Mon Feb 26 2018 12:32:54 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 12:33:27 GMT-0400 (-04) : 0x0ddd1621b89281641dc5b229fd437a7dcea04ef4881df417eb714bb4b4a04dd5
+txAdress Mon Feb 26 2018 12:34:10 GMT-0400 (-04) : 0x7a83ea7178a3dbe24e4c9c6f343d25cf155ca9e8fabe84139978522c8bf015ec
+txAdress Mon Feb 26 2018 12:34:24 GMT-0400 (-04) : 0x221bc0de008ef3d803aa55fc0dfe9cea4eb6dd98c6783d20c5e2184a9e5779af
+txAdress Mon Feb 26 2018 12:41:15 GMT-0400 (-04) : 0xc515683c19efab4e9a88c87c46a2854fa6d7629c51eed9cd1f4bea8e6b5e8812
+txAdress Mon Feb 26 2018 12:44:17 GMT-0400 (-04) : 0xa05fa22f0967c5f3d3b9fef5e6d0969a937abcb18b3ba8dbbc737939f93537b0
+txAdress Mon Feb 26 2018 12:44:58 GMT-0400 (-04) : 0xaaaa6c07d056a3b6dc45ba36af0b8ccafb6b48bc3f4bbaa4b03391f214b80f90
+txAdress Mon Feb 26 2018 12:45:54 GMT-0400 (-04) : 0x6f301fa9e9e2f2d8b0e38932861714ede870beacddc6cc91fd883a450644f53d
+Error Mon Feb 26 2018 12:46:27 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 12:48:54 GMT-0400 (-04) : 0x7aebc9bc0beb209636e2495affbfb2ba6259e033159a795204a92c3eeaefde94
+txAdress Mon Feb 26 2018 12:49:02 GMT-0400 (-04) : 0xacafe715d878e36cf11ab659a658d0a1b54e68787c3ccc306821bde8ef7f839b
+Error Mon Feb 26 2018 12:49:33 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+Error Mon Feb 26 2018 12:50:55 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
+txAdress Mon Feb 26 2018 12:51:28 GMT-0400 (-04) : 0x7cc623468c8918713d1fc588bc284f019735dccca3f226d037b0825604a9264e
+txAdress Mon Feb 26 2018 12:52:26 GMT-0400 (-04) : 0x99673c5b7edd04f57f2f0c85303f342058509e45c3ab89c6b765e7715020f9cf
+txAdress Mon Feb 26 2018 13:06:00 GMT-0400 (-04) : 0x7572c6c9ce3a76fbf6ab5b97192fd91c2627e94868f8f6332f628b78df3cddae
+txAdress Mon Feb 26 2018 13:06:37 GMT-0400 (-04) : 0x81895367697ea84b629dbbe7843022f50a5bd8a623a7a3e4ab77a269bc93fb63
+txAdress Mon Feb 26 2018 13:08:07 GMT-0400 (-04) : 0x3f464dfde70dfd66dbba6e9a0b769a2b141724ef16d07af572c01b15c6191c2c
+txAdress Mon Feb 26 2018 13:10:34 GMT-0400 (-04) : 0x0f27c434d26442dbba1dfea97872aed08aea37500ade3c3826fa8df8deec53f3
+txAdress Mon Feb 26 2018 13:11:14 GMT-0400 (-04) : 0x28b01235103425eb2a1121205636d955f1203465575d6033891cf483d20a7deb
+txAdress Mon Feb 26 2018 13:12:36 GMT-0400 (-04) : 0x267938aecfced13b2ddf5d39ff4f6b98f4d4c3570c7f95aaed105a5e1a838ce0
+txAdress Mon Feb 26 2018 13:13:08 GMT-0400 (-04) : 0x9ed042db5d796be495a7c028337a6b14e37bd3d8b9ff4df27a9f08b62fcb2c26
+txAdress Mon Feb 26 2018 13:22:13 GMT-0400 (-04) : 0xc09538e56cdc9113711cc4ff5b3c818bac22198fd88b4ba3c2079d181be054f9
+txAdress Mon Feb 26 2018 13:26:08 GMT-0400 (-04) : 0x8e5423c0ad544f3a7b579865aa30d478dd9c2dd4ebb8040ff9ad547330d8e325
+Error Mon Feb 26 2018 13:28:40 GMT-0400 (-04) : Error: Returned error: replacement transaction underpriced
